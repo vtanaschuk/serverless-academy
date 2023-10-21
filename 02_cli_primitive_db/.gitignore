@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Local environment variables
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Compiled binary addons
+node_modules/**/*.node
+
+# Ignore package-lock.json
+package-lock.json
