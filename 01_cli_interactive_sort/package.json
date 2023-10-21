@@ -1,0 +1,11 @@
+{
+  "name": "cli-interactive-sort",
+  "version": "1.0.0",
+  "description": "CLI application for sorting words and numbers",
+  "main": "sorter.js",
+  "scripts": {
+    "start": "node sort.js"
+  },
+  "author": "vtanaschuk",
+  "license": "MIT"
+}
